@@ -35,15 +35,12 @@ Ao final da aula, o aluno será capaz de:
 - Discussão sobre a importância da hierarquia lógica (pastas -> subpastas -> arquivos).
 
 ### 3. Operações básicas com arquivos e pastas
-
 - Criar, renomear, mover, copiar e deletar arquivos e pastas.
 - Abrir arquivos com programas correspondentes.
 - Localizar arquivos usando a barra de pesquisa.
 
 ### 4. Tipos de arquivos e extensões
-
 - Apresentação de extensões comuns:
-
   - Textos: `.txt`, `.docx`
   - Planilhas: `.xlsx`
   - Apresentações: `.pptx`
@@ -51,8 +48,7 @@ Ao final da aula, o aluno será capaz de:
 - Como identificar o tipo de arquivo pelo ícone e extensão.
 
 ### 5. Boas práticas de organização
-
 - Nomeação clara e padronizada de arquivos.
 - Evitar duplicidade e desorganização.
 - Utilização de pastas por categoria, projeto ou data.
-- Explicação da diferença entre armazenamento local e nuvem*- (introdução ao conceito).
+- Explicação da diferença entre armazenamento local e nuvem (introdução ao conceito).
