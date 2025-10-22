@@ -1,4 +1,4 @@
-# Informatica Basica
+# Informática Básica
 
 ## Objetivo:
 Ensinar o aluno a utilizar o computador e os principais programas e serviços digitais com autonomia, 
