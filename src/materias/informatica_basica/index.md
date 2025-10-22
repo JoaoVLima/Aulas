@@ -4,7 +4,7 @@
 Ensinar o aluno a utilizar o computador e os principais programas e serviços digitais com autonomia, 
 segurança e eficiência, aplicando esses conhecimentos no cotidiano pessoal, acadêmico e profissional.
 
-Ao final do curso, o aluno será capaz de:
+Ao final da matéria, o aluno será capaz de:
 - Ligar, configurar e utilizar um computador pessoal com autonomia.
 - Organizar arquivos e pastas de maneira lógica e eficiente.
 - Utilizar programas de escritório (editor de texto, planilhas e apresentações).
@@ -18,10 +18,10 @@ Ao final do curso, o aluno será capaz de:
 - Sistema operacional (Windows/Linux/Mac) com acesso à internet.
 
 ## Pré-requisitos (conceitos que o aluno precisa ter antes ou logo no início):
-Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam acompanhar as atividades práticas e teóricas do curso com autonomia.
+Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam acompanhar as atividades práticas e teóricas da matéria com autonomia.
 > Esses pré-requisitos são dinâmicos e podem variar de acordo com a idade, nível de escolaridade e experiência prévia de cada turma.
 > Por esse motivo, nas primeiras aulas é realizada uma revisão geral e nivelamento dos principais conceitos, 
-> garantindo que todos os alunos iniciem o curso com uma base comum de compreensão e prática.
+> garantindo que todos os alunos iniciem a matéria com uma base comum de compreensão e prática.
 
 ### Conhecimentos e habilidades operacionais
 - Ligar e desligar o computador.

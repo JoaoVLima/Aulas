@@ -1,12 +1,12 @@
 # Aula 01
-Apresentação do curso e fundamentos do computador — hardware, software e sistema operacional.
+Apresentação da matéria e fundamentos do computador — hardware, software e sistema operacional.
 
 > A forma como a aula será ministrada pode variar conforme a faixa etária, experiência prévia e 
 > nível de conhecimento dos alunos. Nas primeiras atividades, é realizada uma revisão geral para 
 > nivelar a turma e garantir que todos acompanhem o conteúdo.
 
 ## Objetivo:
-Introduzir o aluno ao ambiente do curso, revisar os conceitos fundamentais de informática e 
+Introduzir o aluno ao ambiente do matéria, revisar os conceitos fundamentais de informática e 
 garantir que todos tenham uma base comum sobre o funcionamento do computador e seus componentes.
 
 Ao final da aula, o aluno será capaz de:
@@ -27,7 +27,7 @@ Ao final da aula, o aluno será capaz de:
 ---
 
 ### 1. Boas-vindas e apresentação
-- Apresentação do curso e do professor.
+- Apresentação da matéria e do professor.
 - Expectativas, metodologia e regras de convivência.
 - Breve sondagem diagnóstica: conversa sobre o que os alunos já sabem fazer no computador.
 

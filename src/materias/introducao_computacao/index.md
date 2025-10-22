@@ -2,9 +2,9 @@
 
 ## Objetivo:
 Apresentar os fundamentos teóricos e práticos da Ciência da Computação, proporcionando ao aluno uma compreensão mais profunda sobre o funcionamento dos computadores, das redes, dos sistemas operacionais e dos princípios da programação.
-O curso de Introdução à Computação serve justamente como ponte entre o uso prático do computador (Informática Básica) e a compreensão dos princípios teóricos da Computação, como hardware, software, redes, algoritmos e lógica.
+A matéria de Introdução à Computação serve justamente como ponte entre o uso prático do computador (Informática Básica) e a compreensão dos princípios teóricos da Computação, como hardware, software, redes, algoritmos e lógica.
 
-Ao final do curso, o aluno será capaz de:
+Ao final da matéria, o aluno será capaz de:
 - Compreender a estrutura e o funcionamento interno de um computador (arquitetura básica e ciclo de processamento da informação).
 - Distinguir os principais componentes de hardware e software e suas interações.
 - Entender os conceitos de sistemas operacionais, redes e internet em nível introdutório.
@@ -19,7 +19,7 @@ Os alunos devem possuir conhecimentos prévios em Informática Básica e compet�
 matemáticas e cognitivas do nível médio.
 > Esses pré-requisitos são dinâmicos e podem variar de acordo com a idade, nível de escolaridade e experiência prévia de cada turma.
 > Por esse motivo, nas primeiras aulas é realizada uma revisão geral e nivelamento dos principais conceitos, 
-> garantindo que todos os alunos iniciem o curso com uma base comum de compreensão e prática.
+> garantindo que todos os alunos iniciem a matéria com uma base comum de compreensão e prática.
 
 ### Conhecimentos Técnicos e Operacionais
 - Domínio das operações básicas do sistema operacional (abrir, salvar, copiar, renomear e organizar arquivos).
