@@ -56,3 +56,29 @@ Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam a
 - Comprometimento com as atividades práticas e prazos.
 - Responsabilidade digital: uso ético da internet e respeito à privacidade de dados.
 
+---
+
+## Aulas
+1. [**Aula 01 — Fundamentos do Computador**](aula01/index.md)
+    - Apresentação do curso e introdução aos conceitos de hardware, software e sistema operacional.
+
+2. [**Aula 02 — Organização de Arquivos e Pastas**](aula02/index.md)
+    - Como criar, salvar e organizar documentos e pastas no computador de forma eficiente.
+
+3. [**Aula 03 — Editor de Texto**](aula03/index.md)
+    - Primeiros passos com o Microsoft Word ou similar: digitação, formatação e salvamento de documentos.
+
+4. [**Aula 04 — Planilhas Eletrônicas**](aula04/index.md)
+    - Introdução ao Excel ou similar: estrutura de células, fórmulas básicas e formatação de dados.
+
+5. [**Aula 05 — Apresentações Digitais**](aula05/index.md)
+    - Como criar slides, aplicar temas e montar apresentações visuais no PowerPoint ou similar.
+
+6. [**Aula 06 — Internet e Navegação Segura**](aula06/index.md)
+    - Conceitos de internet, uso de navegadores, pesquisas e boas práticas de segurança digital.
+
+7. [**Aula 07 — Serviços em Nuvem e Colaboração Online**](aula07/index.md)
+    - Armazenamento em nuvem, compartilhamento de arquivos e trabalho colaborativo com ferramentas online.
+
+8. [**Aula 08 — Introdução à Lógica e Programação**](aula08/index.md)
+    - Conceitos iniciais de raciocínio lógico, algoritmos e pensamento computacional.
