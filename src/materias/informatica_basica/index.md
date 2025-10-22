@@ -25,11 +25,11 @@ Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam a
 
 ### Conhecimentos e habilidades operacionais
 - Ligar e desligar o computador.
-- Reconhecer os principais dispositivos de entrada e saída (monitor, teclado, mouse, CPU, impressora, pen drive, etc.).
-- Saber conectar e desconectar periféricos (USB, fones, microfone, etc.).
+- Reconhecer os principais dispositivos de entrada e saída (monitor, teclado, mouse, CPU, impressora, pen drive, etc).
+- Saber conectar e desconectar periféricos (USB, fones, microfone, etc).
 - Usar teclado e mouse: digitar textos simples, clicar, arrastar, selecionar, copiar e colar.
 - Reconhecer ícones e janelas do sistema operacional.
-- Entender o conceito de arquivos e pastas: que os arquivos ficam salvos em locais organizados hierarquicamente (pasta → subpasta → arquivo).
+- Entender o conceito de arquivos e pastas: que os arquivos ficam salvos em locais organizados hierarquicamente (pasta -> subpasta -> arquivo).
 - Ter noções básicas de armazenamento (saber que arquivos ocupam espaço e que dispositivos têm capacidade limitada).
 
 ### Conhecimentos conceituais
@@ -40,7 +40,7 @@ Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam a
 
 ### Raciocínio lógico e cognitivo
 - Leitura e interpretação de instruções simples (entender menus, botões, mensagens de erro).
-- Capacidade de seguir passos sequenciais (ex.: “abrir pasta → abrir documento → salvar como”).
+- Capacidade de seguir passos sequenciais (ex.: abrir pasta -> abrir documento -> salvar como).
 - Raciocínio lógico elementar: identificar causa e efeito (ex.: clicar em um botão e observar o resultado).
 - Atenção aos detalhes (saber diferenciar comandos, ícones e opções semelhantes).
 

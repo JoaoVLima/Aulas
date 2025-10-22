@@ -26,15 +26,13 @@ Ao final da aula, o aluno será capaz de:
 ---
 
 ### 1. Revisão rápida
-
 - Recapitulação da Aula 01: componentes do computador e sistema operacional.
 - Perguntas rápidas para nivelar o conhecimento sobre janelas, ícones e navegação básica.
 
 ### 2. Estrutura de Pastas e Arquivos
-
 - Explicação sobre o que é uma pasta e um arquivo.
-- Demonstração de como criar uma pasta*- e como salvar um arquivo dentro dela.
-- Discussão sobre a importância da hierarquia lógica*- (pastas → subpastas → arquivos).
+- Demonstração de como criar uma pasta e como salvar um arquivo dentro dela.
+- Discussão sobre a importância da hierarquia lógica (pastas -> subpastas -> arquivos).
 
 ### 3. Operações básicas com arquivos e pastas
 

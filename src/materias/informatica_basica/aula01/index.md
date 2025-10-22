@@ -1,5 +1,5 @@
 # Aula 01
-Apresentação da matéria e fundamentos do computador — hardware, software e sistema operacional.
+Apresentação da matéria, fundamentos do computador, hardware, software e sistema operacional.
 
 > A forma como a aula será ministrada pode variar conforme a faixa etária, experiência prévia e 
 > nível de conhecimento dos alunos. Nas primeiras atividades, é realizada uma revisão geral para 
