@@ -24,12 +24,6 @@ Ao final da aula, o aluno será capaz de:
 - Noções básicas da interface gráfica (área de trabalho, menu iniciar, barra de tarefas).
 - Boas práticas de uso e cuidados com equipamentos.
 
-## Materiais e Recursos
-- Computador individual ou compartilhado.
-- Quadro, projetor ou TV multimídia para demonstração.
-- Slides de apoio (com imagens dos componentes e da tela do sistema operacional).
-- Pen drive ou HD externo para demonstrações.
-
 ---
 
 ### 1. Boas-vindas e apresentação

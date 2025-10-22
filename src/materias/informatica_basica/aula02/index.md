@@ -1,53 +1,60 @@
-# Aula 01
-Apresentação do curso e fundamentos do computador — hardware, software e sistema operacional.
+# Aula 02
+Organização de arquivos e pastas no computador
 
 > A forma como a aula será ministrada pode variar conforme a faixa etária, experiência prévia e 
 > nível de conhecimento dos alunos. Nas primeiras atividades, é realizada uma revisão geral para 
 > nivelar a turma e garantir que todos acompanhem o conteúdo.
 
 ## Objetivo:
-Introduzir o aluno ao ambiente do curso, revisar os conceitos fundamentais de informática e 
-garantir que todos tenham uma base comum sobre o funcionamento do computador e seus componentes.
+Ensinar o aluno a organizar arquivos e pastas de forma lógica e eficiente, entendendo a estrutura de armazenamento do computador e do sistema operacional.
 
 Ao final da aula, o aluno será capaz de:
-- Ligar e desligar o computador corretamente.
-- Reconhecer os principais componentes físicos (hardware) de um computador.
-- Diferenciar hardware e software.
-- Entender o papel do sistema operacional.
-- Navegar pelo ambiente de trabalho (área de trabalho, janelas, menus, ícones).
+- Criar, renomear e deletar pastas e arquivos.
+- Identificar os tipos de arquivos mais comuns (documentos, imagens, planilhas).
+- Compreender a hierarquia de pastas e subpastas.
+- Salvar arquivos corretamente em locais específicos.
+- Navegar pelo sistema de arquivos com autonomia.
 
 ## Conceitos Principais
-- O que é Informática e sua importância no cotidiano.
-- Diferença entre dado, informação e conhecimento.
-- Conceitos de hardware e software.
-- O que é um sistema operacional (Windows, Linux, macOS).
-- Noções básicas da interface gráfica (área de trabalho, menu iniciar, barra de tarefas).
-- Boas práticas de uso e cuidados com equipamentos.
+- Estrutura de armazenamento: pasta → subpasta → arquivo.
+- Diferença entre arquivo e pasta.
+- Tipos comuns de arquivos e extensões (ex.: `.txt`, `.docx`, `.xlsx`, `.jpg`).
+- Caminho de arquivos e local de armazenamento.
+- Boas práticas de organização digital: nomes claros, uso de pastas por tema/projeto, evitar duplicidade.
 
-## Materiais e Recursos
-- Computador individual ou compartilhado.
-- Quadro, projetor ou TV multimídia para demonstração.
-- Slides de apoio (com imagens dos componentes e da tela do sistema operacional).
-- Pen drive ou HD externo para demonstrações.
 
 ---
 
-### 1. Boas-vindas e apresentação
-- Apresentação do curso e do professor.
-- Expectativas, metodologia e regras de convivência.
-- Breve sondagem diagnóstica: conversa sobre o que os alunos já sabem fazer no computador.
+### 1. Revisão rápida
 
-### 2. O que é Informática?
-- Origem e conceito.
-- Aplicações no dia a dia (trabalho, escola, lazer, comunicação).
-- Importância da alfabetização digital.
+- Recapitulação da Aula 01: componentes do computador e sistema operacional.
+- Perguntas rápidas para nivelar o conhecimento sobre janelas, ícones e navegação básica.
 
-### 3. Componentes do Computador
-- Hardware: monitor, teclado, mouse, CPU, impressora, HD, memória, pen drive.
-- Software: programas, aplicativos, sistemas.
-- Explicação da interação entre hardware e software.
+### 2. Estrutura de Pastas e Arquivos
 
-### 4. Sistema Operacional
-- Função do sistema operacional (controlar o hardware e permitir o uso dos programas).
-- Exemplo prático: abrindo janelas, movendo o mouse, clicando em ícones.
-- Noções básicas da área de trabalho e da organização de janelas.
+- Explicação sobre o que é uma pasta e um arquivo.
+- Demonstração de como criar uma pasta*- e como salvar um arquivo dentro dela.
+- Discussão sobre a importância da hierarquia lógica*- (pastas → subpastas → arquivos).
+
+### 3. Operações básicas com arquivos e pastas
+
+- Criar, renomear, mover, copiar e deletar arquivos e pastas.
+- Abrir arquivos com programas correspondentes.
+- Localizar arquivos usando a barra de pesquisa.
+
+### 4. Tipos de arquivos e extensões
+
+- Apresentação de extensões comuns:
+
+  - Textos: `.txt`, `.docx`
+  - Planilhas: `.xlsx`
+  - Apresentações: `.pptx`
+  - Imagens: `.jpg`, `.png`
+- Como identificar o tipo de arquivo pelo ícone e extensão.
+
+### 5. Boas práticas de organização
+
+- Nomeação clara e padronizada de arquivos.
+- Evitar duplicidade e desorganização.
+- Utilização de pastas por categoria, projeto ou data.
+- Explicação da diferença entre armazenamento local e nuvem*- (introdução ao conceito).

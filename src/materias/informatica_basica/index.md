@@ -12,6 +12,11 @@ Ao final do curso, o aluno será capaz de:
 - Reconhecer boas práticas de segurança digital e manutenção básica do sistema.
 - Compreender os conceitos de nuvem e colaboração online.
 
+## Materiais e Recursos
+- Computador individual ou compartilhado.
+- Quadro, projetor ou TV multimídia para demonstração.
+- Sistema operacional (Windows/Linux/Mac) com acesso à internet.
+
 ## Pré-requisitos (conceitos que o aluno precisa ter antes ou logo no início):
 Os alunos devem possuir conhecimentos e habilidades prévias que lhes permitam acompanhar as atividades práticas e teóricas do curso com autonomia.
 > Esses pré-requisitos são dinâmicos e podem variar de acordo com a idade, nível de escolaridade e experiência prévia de cada turma.
