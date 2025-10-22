@@ -22,7 +22,6 @@ Ao final da aula, o aluno será capaz de:
 - Caminho de arquivos e local de armazenamento.
 - Boas práticas de organização digital: nomes claros, uso de pastas por tema/projeto, evitar duplicidade.
 
-
 ---
 
 ### 1. Revisão rápida
